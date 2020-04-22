@@ -5,7 +5,7 @@ const Home = () => (
     <div className="jumbotron">
         <h1>HOME</h1>
         <p>HOME</p>
-        <Link to="login" className="btn btn-primary btn-lg">
+        <Link to="" className="btn btn-primary btn-lg">
             Login
         </Link>
     </div>
