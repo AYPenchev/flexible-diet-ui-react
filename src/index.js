@@ -5,10 +5,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import App from './components/app.jsx';
 import './index.css';
 
-
 render(
     <Router>
         <App />
     </Router>,
-     document.getElementById("app")
+     document.getElementById("entryPoint")
 );
