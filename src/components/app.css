@@ -1,35 +1,30 @@
 @media (min-width: 576px) {
-    #app {
+    #header {
         max-width: 476px;
-        margin: 0 auto;
     }
 }
 
 @media (min-width: 768px) {
-    #app {
+    #header {
         max-width: 668px;
-        margin: 0 auto;
     }
 }
 
 @media (min-width: 992px) {
-    #app {
+    #header {
         max-width: 892px;
-        margin: 0 auto;
     }
 }
 
 @media (min-width: 1200px) {
-    #app {
+    #header {
         max-width: 1600px;
-        margin-left: 8%;
-        margin-right: 8%; 
+
     }
 }
 
 @media (max-width: 575px) {
-    #app {
+    #header {
         max-width: 450px;
-        margin: 0 auto;
     }
 }

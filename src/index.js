@@ -6,8 +6,8 @@ import App from './components/app.jsx';
 import './index.css';
 
 render(
-    <Router>
-        <App />
+    <Router >
+        <App location={location} />
     </Router>,
      document.getElementById("entryPoint")
 );

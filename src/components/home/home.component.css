@@ -1,0 +1,36 @@
+#home {
+    /*default jumbotron color*/
+    /* background-color: #E9ECEF; */
+    margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+    #home {
+        max-width: 476px;
+    }
+}
+
+@media (min-width: 768px) {
+    #home {
+        max-width: 668px;
+    }
+}
+
+@media (min-width: 992px) {
+    #home {
+        max-width: 892px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #home {
+        max-width: 1600px;
+
+    }
+}
+
+@media (max-width: 575px) {
+    #home {
+        max-width: 450px;
+    }
+}
